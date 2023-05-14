@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="128" height="64" tilewidth="16" tileheight="16" backgroundcolor="#000000">
+ <tileset firstgid="1" name="sl2" tilewidth="16" tileheight="16">
+  <image source="sl2.png" trans="000000" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="128" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt2OFqgzAUBtBue6J2e9EVuuedDAISoqnxaqM7Pw5XKl4lX2jgXi+Xy21wDarp+prdG98v/VbqM/fsrfLbXP/PwZf6J88pqubX+Z4o5VR7ptZrrsf43qvXfU2N7pnW5Htwb6zpetwrul9rr3uh32Pw01DTmrU+/xj1aH0++jvSmnwEiOy1Zb/3RmnNWp/vsYf8j5vd2fNP/9u95J/+P3vJ7uz5R1ubf4SI7CL3ofyPl3/kd/Scv/Nf/vLftof8j5tdVP61eV5pHVvV+uXzvGdM5TxVe5jfTc1jSzktfc9U1lPz39oMd2p9l9pzP50p/y165PnPzWHz9a3NV2tz2FK/Z+bJJUu+bzw3XTIr3XP+m2c312PqPUt6/Kfzf+252dvZHXX+y/+Y2clf/j3lv9W8Pqrf2rmp+f++or9tzXpF6W0Pyf94es3f+S9/+R+rh/yPm11k/hF1PBeO7PfKee2e89+9a3T+0fWM+Uftn6ham9W/uq6Ztav1+gYAAAAAAAAAAAAAAAAAAAAAAADs5hesz7IG
+  </data>
+ </layer>
+</map>
